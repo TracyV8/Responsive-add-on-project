@@ -97,6 +97,10 @@ main p {
 img {
   max-width: 100%;
 }
+img.gallery {
+  width: 100%;
+  border-radius: 5px;
+}
 .card {
   background-color: white;
   padding: 20px 20px;
