@@ -149,6 +149,23 @@ img.gallery {
   width: 100%;
   aspect-ratio: 1/1;
 }
+table {
+  border: 2px solid lightgrey;
+  text-align: center;
+  width: 100%;
+}
+thead {
+  background-color: bisque;
+}
+th {
+  padding: 15px;
+}
+td {
+  border-top: 1px solid lightgray;
+}
+.table-container {
+  overflow-x: auto;
+}
 footer {
   color: white;
   background-image: linear-gradient(
